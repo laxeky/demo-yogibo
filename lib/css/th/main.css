@@ -1,0 +1,89 @@
+@import url('style.css');
+@import url('style-update.css');
+@import url('style-responsive.css');
+
+
+
+@font-face {
+    font-family: 'Lehigh Commercial';
+    src: url('font/LehighCommercial-Bold.eot');
+    src: url('font/LehighCommercial-Bold.eot?#iefix') format('embedded-opentype'), url('font/LehighCommercial-Bold.woff2') format('woff2'), url('font/LehighCommercial-Bold.woff') format('woff'), url('font/LehighCommercial-Bold.ttf') format('truetype'), url('font/LehighCommercial-Bold.svg#LehighCommercial-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lehigh Commercial';
+    src: url('font/LehighCommercial-Regular.eot');
+    src: url('font/LehighCommercial-Regular.eot?#iefix') format('embedded-opentype'), url('font/LehighCommercial-Regular.woff2') format('woff2'), url('font/LehighCommercial-Regular.woff') format('woff'), url('font/LehighCommercial-Regular.ttf') format('truetype'), url('font/LehighCommercial-Regular.svg#LehighCommercial-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lehigh Commercial';
+    src: url('font/LehighCommercial-Black.eot');
+    src: url('font/LehighCommercial-Black.eot?#iefix') format('embedded-opentype'), url('font/LehighCommercial-Black.woff2') format('woff2'), url('font/LehighCommercial-Black.woff') format('woff'), url('font/LehighCommercial-Black.ttf') format('truetype'), url('font/LehighCommercial-Black.svg#LehighCommercial-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lehigh Commercial';
+    src: url('font/LehighCommercial-Light.eot');
+    src: url('font/LehighCommercial-Light.eot?#iefix') format('embedded-opentype'), url('font/LehighCommercial-Light.woff2') format('woff2'), url('font/LehighCommercial-Light.woff') format('woff'), url('font/LehighCommercial-Light.ttf') format('truetype'), url('font/LehighCommercial-Light.svg#LehighCommercial-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lehigh Commercial';
+    src: url('font/LehighCommercial-Thin.eot');
+    src: url('font/LehighCommercial-Thin.eot?#iefix') format('embedded-opentype'), url('font/LehighCommercial-Thin.woff2') format('woff2'), url('font/LehighCommercial-Thin.woff') format('woff'), url('font/LehighCommercial-Thin.ttf') format('truetype'), url('font/LehighCommercial-Thin.svg#LehighCommercial-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lehigh Commercial';
+    src: url('font/LehighCommercial-SemiBold.eot');
+    src: url('font/LehighCommercial-SemiBold.eot?#iefix') format('embedded-opentype'), url('font/LehighCommercial-SemiBold.woff2') format('woff2'), url('font/LehighCommercial-SemiBold.woff') format('woff'), url('font/LehighCommercial-SemiBold.ttf') format('truetype'), url('font/LehighCommercial-SemiBold.svg#LehighCommercial-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DBHelvethaicaMonX65Med';
+    src: url('font/DBHelvethaicaMonX-65Med.eot');
+    src: url('font/DBHelvethaicaMonX-65Med.eot?#iefix') format('embedded-opentype'),
+    url('font/DBHelvethaicaMonX-65Med.woff2') format('woff2'),
+    url('font/DBHelvethaicaMonX-65Med.woff') format('woff'),
+    url('font/DBHelvethaicaMonX-65Med.ttf') format('truetype'),
+    url('font/DBHelvethaicaMonX-65Med.svg#DBHelvethaicaMonX-65Med') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'BoonJot';
+    src: url('font/BoonJot-400.eot');
+    src: url('font/BoonJot-400.eot?#iefix') format('embedded-opentype'),
+    url('font/BoonJot-400.woff2') format('woff2'),
+    url('font/BoonJot-400.woff') format('woff'),
+    url('font/BoonJot-400.ttf') format('truetype'),
+    url('font/BoonJot-400.svg#BoonJot-400') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DBHelvethaicaX55';
+    src: url('font/DBHelvethaicaX-55Regular.eot');
+    src: url('font/DBHelvethaicaX-55Regular.eot?#iefix') format('embedded-opentype'),
+    url('font/DBHelvethaicaX-55Regular.woff2') format('woff2'),
+    url('font/DBHelvethaicaX-55Regular.woff') format('woff'),
+    url('font/DBHelvethaicaX-55Regular.ttf') format('truetype'),
+    url('font/DBHelvethaicaX-55Regular.svg#DBHelvethaicaX-55Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
